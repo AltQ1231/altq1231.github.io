@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[17],{NmmG:function(e,n,r){"use strict";r.r(n);var t=r("7AqN"),c=r("nKUr");n["default"]=e=>{var n=!!window.localStorage.getItem("user");return n?Object(c["jsx"])(c["Fragment"],{children:e.children}):Object(c["jsx"])(t["c"],{to:"/login"})}}}]);
